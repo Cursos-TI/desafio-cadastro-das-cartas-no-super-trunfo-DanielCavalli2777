@@ -9,14 +9,14 @@ int main(){
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
-    carta:1
-    Codigo: A01
-    Nome da cidade: São Paulo
-    População : 12325000
-    Area: 1521.11 km²
-    PIB: 699.28 bilhôes de reais
-    Numeros de pontos turisticos:50
-    
+    Estado (char[são Paulo])
+    Codigo(char[A1])
+    Nome da cidade(char[São paulo])
+    População(int) 12325000
+    Area(float) 1521.11 km²
+    PIB(float) 699.28 bilhôes de reais
+    Numeros de pontos turisticos(int):50
+
 int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
